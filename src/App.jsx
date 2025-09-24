@@ -3,7 +3,7 @@ import { Routes, Route, Link, useNavigate } from 'react-router-dom'
 import NoteForm from './NoteForm'
 import NoteCard from './NoteCard'
 import NoteModal from './NoteModal'
-import TagFilter from './Tagfilter'
+import TagFilter from './TagFilter'
 
 
 const STORAGE_KEY = 'react-notes-app:v1'
